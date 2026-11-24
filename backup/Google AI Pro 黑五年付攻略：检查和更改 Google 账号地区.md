@@ -31,9 +31,9 @@
 
 ## 几句使用感受
 
-仅分享信息，不构成购买推荐。我们走的是 Google 正规订阅渠道，我个人不太担心封号，但账号能否一直正常使用，谁也没法保证。Gemini 有个外号叫“VPN 质检机”，我用下来，感觉它对网络环境的要求可能比 Codex 略高一点。
+仅分享信息，不构成购买推荐。我们走的是 Google 正规订阅渠道，我个人不太担心封号，但账号能否一直正常使用，谁也没法保证。Gemini 有个外号叫“VPN 质检机”，网上说它对网络环境的要求可能比 Codex 略高一点，我自己没感觉到。
 
-客户端里，Gemini 类似 ChatGPT App，Antigravity IDE 类似 Cursor，`agy` 是在终端里用的 Antigravity CLI。就我平时写代码的体验，Codex 的功能更合我用。`agy` 内置的 Browser Use（`/browser`）能操作 Chrome，本身没有可以操控其他桌面软件的通用 Computer Use。如果想让 `agy` 操作浏览器以外的软件，可以试试通过 MCP 接入第三方项目 `open-computer-use`。项目展示的是 Gemini CLI 的用法，`agy` 的接入效果还待验证。[Browser Use 文档](https://antigravity.google/docs/browser) · [open-computer-use 项目](https://github.com/iFurySt/open-computer-use)
+客户端里，Gemini 类似 ChatGPT App（里面也嵌入了一个 Antigravity，和 ChatGPT 里嵌入的 Codex 界面很像），Antigravity IDE 类似 Cursor，`agy` 是在终端里用的 Antigravity CLI。就我平时写代码的体验，Codex 的功能更合我用。`agy` 内置的 Browser Use（`/browser`）能操作 Chrome，本身没有可以操控其他桌面软件的通用 Computer Use。如果想让 `agy` 操作浏览器以外的软件，可以试试通过 MCP 接入第三方项目 `open-computer-use`。项目展示的是 Gemini CLI 的用法，`agy` 的接入效果还待验证。[open-computer-use 项目](https://github.com/iFurySt/open-computer-use)
 
 最后附两张当时的榜单截图。Gemini 4 Neon（xHigh）在编程榜排第 4，综合榜排第 3，两项都标了初步结果（Preliminary）。
 
