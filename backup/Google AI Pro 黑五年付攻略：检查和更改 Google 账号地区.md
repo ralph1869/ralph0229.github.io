@@ -10,6 +10,12 @@
 
 ![Google AI Pro 黑五年付攻略原图](https://github.com/user-attachments/assets/b846b66b-7a26-46eb-a6e3-d7f50b43a99b)
 
+**图中链接（按截图顺序）**
+
+1. Google 账号的「删除服务」页面（仅查价可直接看下面两项）　<https://myaccount.google.com/deleteservices>
+2. Google AI 套餐和价格　<https://one.google.com/about/google-ai-plans/>
+3. Google One 升级或更改套餐　<https://one.google.com/settings?expand=upgrade>
+
 ## 土区实测：两种月付转年付
 
 我和朋友的土区账号都叠加到了首年优惠，走的是两种方式。金额都是土耳其里拉（TRY）。
@@ -27,7 +33,7 @@
 
 仅分享信息，不构成购买推荐。我们走的是 Google 正规订阅渠道，我个人不太担心封号，但账号能否一直正常使用，谁也没法保证。Gemini 有个外号叫“VPN 质检机”，我用下来，感觉它对网络环境的要求可能比 Codex 略高一点。
 
-客户端里，Gemini 类似 ChatGPT App，Antigravity IDE 类似 Cursor，`agy` 是在终端里用的 Antigravity CLI。就我平时写代码的体验，Codex 的功能更合我用。拿 Computer Use 举例，`agy` 的 `/browser` 可以操作 Chrome。Gemini 的 Mac 客户端也有官方桌面操作功能，目前先在美国向符合条件的用户逐步开放。[Antigravity 浏览器操作](https://antigravity.google/docs/browser) · [Gemini Mac 版 Computer Use](https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/)
+客户端里，Gemini 类似 ChatGPT App，Antigravity IDE 类似 Cursor，`agy` 是在终端里用的 Antigravity CLI。就我平时写代码的体验，Codex 的功能更合我用。`agy` 内置的 Browser Use（`/browser`）能操作 Chrome，本身没有可以操控其他桌面软件的通用 Computer Use。如果想让 `agy` 操作浏览器以外的软件，可以试试通过 MCP 接入第三方项目 `open-computer-use`。项目展示的是 Gemini CLI 的用法，`agy` 的接入效果还待验证。[Browser Use 文档](https://antigravity.google/docs/browser) · [open-computer-use 项目](https://github.com/iFurySt/open-computer-use)
 
 最后附两张当时的榜单截图。Gemini 4 Neon（xHigh）在编程榜排第 4，综合榜排第 3，两项都标了初步结果（Preliminary）。
 
